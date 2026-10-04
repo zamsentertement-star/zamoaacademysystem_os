@@ -1,0 +1,6 @@
+{
+  "name": "ZAMOA CBTC Basketball Academy Management System",
+  "description": "Sistem Manajemen Operasional Terintegrasi ZAMOA CBTC Basketball Academy mencakup Atlet, Orang Tua, Latihan, Presensi, Evaluasi, Kompetisi, Medis, HR, Payroll, Inventaris, dan Akuntansi Double-Entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
